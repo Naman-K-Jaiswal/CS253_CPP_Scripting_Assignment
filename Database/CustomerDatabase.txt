@@ -1,0 +1,5 @@
+Alice,CUST001,customerpass,60,20
+Bob,CUST002,customerpass,75,10
+Charlie,CUST003,customerpass,80,0
+David,CUST004,customerpass,50,50
+Eve,CUST005,customerpass,90,15
